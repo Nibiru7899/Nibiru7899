@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Saikrishna 👋
 
-<!--
-**Nibiru7899/Nibiru7899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year AI and Data Science student building production-oriented
+Agentic AI, backend, and data systems.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Agentic AI and multi-agent systems
+- Backend engineering with FastAPI and PostgreSQL
+- Docker, Redis and production deployment
+- Data engineering and machine learning systems
+
+## Featured Projects
+
+### Agentic Interview Intelligence Platform
+Resume analysis, adaptive interviewing, evaluation agents,
+memory, reflection and personalized improvement plans.
+
+### AI Data Intelligence Platform
+Upload datasets, generate safe SQL using LLMs, execute analytics,
+cache results and provide natural-language explanations.
+
+## Technical Skills
+
+**Languages:** Python, SQL  
+**Backend:** FastAPI, REST APIs, Pydantic  
+**Databases:** PostgreSQL, Redis, FAISS  
+**AI:** LangGraph, LLM agents, RAG, scikit-learn  
+**DevOps:** Docker, GitHub Actions, Linux  
+
+## Currently Learning
+
+System design, Kubernetes and production Agentic AI systems.
+
+## Contact
+
+- LinkedIn
+- Email
+- Resume
